@@ -19,7 +19,7 @@
     "@vitejs/plugin-react": "^6.1.1",
     "clsx": "^2.1.1",
     "concurrently": "^10.0.3",
-    "ugarit-vite-plugin": "github:ugaritco/vite-plugin#v1.00.00",
+    "ugarit-vite-plugin": "github:ugaritco/vite-plugin#v1.00.01",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "tailwind-merge": "^3.0.1",
@@ -28,7 +28,7 @@
     "vite": "^8.0.0"
   },
   "devDependencies": {
-    "@ugarit/vite-plugin-wayfinder": "github:ugaritco/vite-plugin-wayfinder#v1.00.00",
+    "@ugarit/vite-plugin-wayfinder": "github:ugaritco/vite-plugin-wayfinder#v1.00.01",
     "@rolldown/plugin-babel": "^0.2.3",
     "@types/node": "^22.13.5",
     "babel-plugin-react-compiler": "^1.0.0",
@@ -41,5 +41,5 @@
     "@tailwindcss/oxide-linux-x64-gnu": "^4.0.1",
     "lightningcss-linux-x64-gnu": "^1.29.1"
   },
-  "version": "1.00.00"
+  "version": "1.00.05"
 }
